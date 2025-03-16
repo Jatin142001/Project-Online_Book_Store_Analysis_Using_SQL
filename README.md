@@ -1,4 +1,4 @@
-# SQL - Project : Online Book Store Analysis 
+# SQL - Project: Online Book Store Analysis 
 
 ## Project Overview
 This project focuses on analyzing an Online Book Store using SQL. It involves creating a structured database and extracting valuable insights through various SQL queries. The analysis covers book details, customer data, and order transactions to derive meaningful business insights.
@@ -26,3 +26,11 @@ Tables Created:
 3. The total revenue was calculated by summing up all order amounts.
 4. The lowest and highest-priced books were retrieved using sorting functions.
 5. The remaining stock levels were analyzed after fulfilling orders.
+
+###  SQL Techniques Used
+1. Joins: Used INNER JOIN, LEFT JOIN to connect books, orders, and customers
+2. Aggregations: Used SUM(), COUNT(), AVG() for revenue and sales insights
+3. Sorting & Filtering: Used ORDER BY, HAVING, DISTINCT for refined data analysis
+4. Subqueries: Applied for advanced queries and filtering
+5. Grouping Data: Used GROUP BY for genre-wise and customer-wise insights
+
