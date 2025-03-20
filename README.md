@@ -36,5 +36,4 @@ Tables Created:
 
 ### Conclusion
 The Online Book Store Analysis project demonstrates the power of SQL in data analysis and database management. By designing a structured database and executing various SQL queries, we extracted valuable insights related to book availability, customer behavior, sales trends, and revenue generation.
-
 This project not only enhanced SQL skills in querying, filtering, and aggregating data but also provided a real-world approach to understanding how businesses can leverage databases for decision-making.
